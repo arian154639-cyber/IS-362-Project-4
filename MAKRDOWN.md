@@ -19,10 +19,10 @@ Finally, I tested the model. I did this twice because although this does violate
 on understanding and less on efficiency this time.
 
 I didn't follow the tutorials completely. For example, one of them made use of scaling, but my research led 
-me to conclude I didn't need that here because the ranges for each value were small anyway. I did some testing 
+me to conclude I didn't need that here because the ranges for each predictor were small anyway. I did some testing 
 such as using different values for the nearest neighbor, but that didn't seem to affect test scores. I initially 
 thought perhaps random state would matter for scoring, but I learned that it did not (the source itself only 
-metnioned reproducibility, but I wanted to see if it would affect test scores). I also tested various different 
+mentioned reproducibility, but I wanted to see if it would affect test scores). I also tested various different 
 train/test ratios, this was what affected scoring, but the differences seemed slight. Admittedly, this may be due 
 to me only using those aforementioned common ratios of 80/20 and 70/30 instead of something like 10/90 or 20/80. 
 
