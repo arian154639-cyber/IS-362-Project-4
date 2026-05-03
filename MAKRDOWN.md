@@ -1,5 +1,5 @@
 Note: This project was submitted late. According to the syllabus, late projects are allowed, but lose 5 points for each
-hour late. This project was submitted to GitHub in its final form and submitted to Brightspace prior to 3AM.
+hour late. This project was submitted to GitHub in its final form and submitted to Brightspace prior to 4AM (GitHut).
 
 Analysis: 
 My conclusion, based on the test scores, is that odor is a far better predictor of edible status than bruising. 
@@ -22,7 +22,7 @@ Finally, I tested the model. I did this twice because although this does violate
 on understanding and less on efficiency this time.
 
 I didn't follow the tutorials completely. For example, one of them made use of scaling, but my research led 
-me to conclude I didn't need that here because the ranges for each predictor were small anyway. I did some testing 
+me to conclude I didn't need that here because each predictor was on different KNN. I did some testing 
 such as using different values for the nearest neighbor, but that didn't seem to affect test scores. I initially 
 thought perhaps random state would matter for scoring, but I learned that it did not (the source itself only 
 mentioned reproducibility, but I wanted to see if it would affect test scores). I also tested various different 
