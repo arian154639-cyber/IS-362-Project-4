@@ -1,3 +1,6 @@
+Note: This project was submitted late. According to the syllabus, late projects are allowed, but lose 5 points for each
+hour late. This project was submitted to GitHub in its final form and submitted to Brightspace prior to 3AM.
+
 Analysis: 
 My conclusion, based on the test scores, is that odor is a far better predictor of edible status than bruising. 
 This is because odor scored above 98% on the test set, while bruising only scored approaximately 74%. My further 
